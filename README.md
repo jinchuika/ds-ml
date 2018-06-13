@@ -5,5 +5,5 @@ These are my personal Data Science and Machine Learning projects. Most of the pr
 - [Gas prices prediction using regression analysis](gas)
 - [Find and solve a math function using MLP](small-projects/simple-mlp-nn.ipynb)
 - [Analysis of Guatemala's 2016 math performance results by school](graduandos/colegio.ipynb)
-
-(*Bear in mind that this is my first full English repo, so you may find some funny grammar mistakes*)
+- [Data analysis of Guatemala's 2016 police reports dataset](pnc/informes_pnc.ipynb)
+- [Random forest for predicting students performance](student-performance/performance.ipynb)
